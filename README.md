@@ -1,3 +1,3 @@
 # git_test
-My first GitHub repo!
+Odin Project learning experience repo!
 Hello Odin!
